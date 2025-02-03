@@ -7,3 +7,7 @@ On m'a toujours dit que j'avais une horrible écriture. Moi je pense qu'il faut 
 ### projet_fonction_ML
 un script qui va entrainer un réseau de neurone pour qu'il puisse deviner les facteurs d'une fonction. Ce sont des fonctions degré 4 qui sont étudié mais mon script peut s'adapter pour n'importe quel degré.
 (validation à améliorer)
+
+### projet_DQN_game
+Je suis trop nul à mon propre jeu ("save the cat" aussi appelé "tes_jeux_cube_game_feature2.3.py" par certains), et je veux voir du bon niveau. J'ai donc décidé de créer un réseau de neurone qui s'entrainera pour pulvériser mon meilleur score (je m'en rappelle même plus!!).
+
