@@ -5,7 +5,7 @@ date = 03/02/2025
 
 topic= On va apprendre à un réseau de neurone à jouer à mon jeu!!
 
-Il s'agit ici de l'étape d'entrainement du DQN qui apprendra à jouer à mon jeu "save the cat", disponible dans my_games/tes_jeux_cube_game_feature2.3.py .
+Il s'agit ici de l'étape d'entrainement en mode DQN du réseau de neurone, qui apprendra à jouer à mon jeu "save the cat"! (disponible dans my_games/tes_jeux_cube_game_feature2.3.py) .
 """
 import pygame
 from pygame.locals import*
