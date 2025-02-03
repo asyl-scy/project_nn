@@ -74,7 +74,7 @@ class Network(nn.Module):
         super().__init__()
         self.net=nn.Sequential(
             nn.Linear(info_transition[0], 64),
-            nn.Tanh(),#bah mince, je voulais mettre relu
+            nn.Tanh(),#Faudrait aussi tenter avec un simple ReLU
             nn.Linear(64,info_transition[1])
             )
         
