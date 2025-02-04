@@ -12,7 +12,7 @@ un script qui va entrainer un réseau de neurone pour qu'il puisse deviner les f
 Je suis trop nul à mon propre jeu ("save the cat" aussi appelé "tes_jeux_cube_game_feature2.3.py" par certains), et je veux voir du bon niveau. J'ai donc décidé de créer un réseau de neurone qui s'entrainera pour pulvériser mon meilleur score (je m'en rappelle même plus!!).
 
 ### projet_triche
-Projet en collaboration avec *asyl_himi*. Dans mon cs, j'ai fait un réseau de neurone qui écrit comme balzac. On a fait manger à un transformer le Père Goriot.
+Projet en collaboration avec *asyl_himi*. Dans mon cas, j'ai fait un réseau de neurone qui écrit comme balzac. On a fait manger à un transformer le Père Goriot.
 Ce que j'ai fait pour le moment est suffisant pour le projet mais moi, de mon côté, je ne suis pas pleinement satisfait.
 J'aimerais à terme:
   *  Améliorer l'entrainement de manière à ce que mon modèle sont plus autonome
