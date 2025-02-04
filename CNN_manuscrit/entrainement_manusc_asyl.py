@@ -5,7 +5,7 @@ date = 12/11/2024
 
 topic = "est-ce qu'asyl_scy a une écriture si horrible que ça?"
 
-ici, je vais tester mon horrible (?) ecriture: on va savir si le réseau de neurone que j'ai entrainé
+ici, je vais tester mon horrible (?) ecriture: on va savoir si le réseau de neurone que j'ai entrainé
 reconnait mon écriture.
 """
 
