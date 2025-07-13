@@ -18,3 +18,6 @@ J'aimerais à terme:
   *  Améliorer l'entrainement de manière à ce que mon modèle sont plus autonome
   *  Si possible, me passer des transformers tout en ayant un résultat satisfaisant.
 ps:bon ok, il dessine et écrit mais il a intérêt de fini dans le mois sa nouvelle, hein! (c'est de bonne guerre)
+
+### DQN_herbiv_carne_simu
+gros projet visant à simuler les interactions entre les herbivores et les carnivores en utilisant l'entrainement DQN. utilisation de Pygame.
